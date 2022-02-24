@@ -28,8 +28,8 @@ input {
 button {
   width: 300px;
   height: 40px;
-  background-color: aqua;
-  border: none;
+  background-color: #a020f0;
+  border: 1px;
   border-radius: 5px;
   font-weight: bold;
   cursor: pointer;
@@ -37,6 +37,6 @@ button {
 
 span {
   color: red;
-  position:absolute;
+  position: absolute;
   margin-top: 50px;
 }
